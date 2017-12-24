@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GI_app-karan-1-12f5ff5a79bdfd049b80f3381298707d86970632.iml" filepath="$PROJECT_DIR$/GI_app-karan-1-12f5ff5a79bdfd049b80f3381298707d86970632.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
